@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "443049763049",
+    "firebase_url": "https://randis-8b40a.firebaseio.com",
+    "project_id": "randis-8b40a",
+    "storage_bucket": "randis-8b40a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443049763049:android:b82838928e53ee90",
+        "android_client_info": {
+          "package_name": "com.example.hdyazilim.randis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443049763049-8ib24n89v5kbl22j2volorlbekoptifj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hdyazilim.randis",
+            "certificate_hash": "8cc13fc6ffecf3ba53e38e10aebd3031630d5db6"
+          }
+        },
+        {
+          "client_id": "443049763049-a2hnoge48oqb0u10opj306ebm2mjjphq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ0TOWCoPvvZy0Rx8QcahElgt0XnWggvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443049763049-a2hnoge48oqb0u10opj306ebm2mjjphq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
